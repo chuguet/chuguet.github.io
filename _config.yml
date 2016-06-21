@@ -12,7 +12,7 @@ syntax-highlight: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  #Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
@@ -93,10 +93,10 @@ disqus-shortname: "chuguet"
 events:
   - image: "/img/career/ing.jpg"
     date: "June 2014 - Currently"
-    description: "Senior Software Engineer @ Packlink.com, worked @ the <a href=\"http://pro.packlink.com\" target=\"_blank\"> Packlink</a>"
+    description: "Analys Programmer @ ING Bank, worked @ the <a href=\"http://www.ingdirect.es\" target=\"_blank\"> ING Bank</a>"
   - image: "/img/career/politecnica.png"
     date: "September 2014 - June 2015"
-    description: "Functional Analyst / Java Architect @ Factoria ETSIA, worked @ <a href=\"http://www.betcompara.com/inicio\" target=\"_blank\"> Betcompara</a>"
+    description: "Master Web Engineer @ UPM, worked @ <a href=\"http://www.upm.es\" target=\"_blank\"> UPM</a>"
   - image: "/img/career/upsam.jpg"
     date: "September 2012 - May 2014"
     description: "IT Enginer studies @ <a href=\"http://www.upsam.com\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science"
