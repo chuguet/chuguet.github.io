@@ -111,7 +111,7 @@ events:
     description: "IT Technical Engineer studies @ <a href=\"http://www.uma.es\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science"
 
 # First image of the Career timeline
-timeline-img: "/img/career/default.jpg"
+timeline-img: "/img/career/default.png"
 
 ##################
 # Contact layout #
