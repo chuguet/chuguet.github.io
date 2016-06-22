@@ -43,7 +43,7 @@ keywords: "carlos, huguet, chuguet, huguet10, technology, computer science, java
 
 black-favicon: "/img/black-lab-glass.ico"
 background-img: "../img/back.jpg"
-me-img: "../img/me.jpg"
+me-img: "../img/default.png"
 
 ##############################
 # Color the browser elements #
@@ -102,7 +102,7 @@ events:
     description: "IT Enginer <a href=\"http://www.upsam.com\" target=\"_blank\">@ UPSAM</a>"
   - image: "/img/career/factoria_etsia.png"
     date: "January 2012 - May 2014"
-    description: "Senior Programmer worked <a href=\"http://www.betcompara.com/inicio\" target=\"_blank\">@ Betcompara</a> at <a href=\"http://www.factoriaetsia.com/\" target=\"_blank\">@ Factoria ETSIA"</a>
+    description: "Senior Programmer worked <a href=\"http://www.betcompara.com/inicio\" target=\"_blank\">@ Betcompara</a> at <br/><a href=\"http://www.factoriaetsia.com/\" target=\"_blank\">@ Factoria ETSIA</a>"
   - image: "/img/career/coritel.png"
     date: "Aug 2011 - December 2011"
     description: "Junior Programmer worked <a href=\"https://coritel.es\" target=\"_blank\">@ Coritel</a> over J2EE for a client of financial sector (ISBAN)"
