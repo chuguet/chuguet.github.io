@@ -96,7 +96,7 @@ events:
     description: "Analyst Programmer worked <a href=\"http://www.ingdirect.es\" target=\"_blank\">@ ING Bank</a> at ING Direct"
   - image: "/img/career/upm.png"
     date: "Sept 2014 - June 2015"
-    description: "Master Web Engineering <a href=\"http://www.upm.es\" target=\"_blank\">@ UPM</a>"
+    description: "Master Web Engineering <br/><a href=\"http://www.upm.es\" target=\"_blank\">@ UPM</a>"
   - image: "/img/career/upsam.png"
     date: "Sept 2012 - May 2014"
     description: "IT Enginer <a href=\"http://www.upsam.com\" target=\"_blank\">@ UPSAM</a>"
@@ -108,7 +108,7 @@ events:
     description: "Junior Programmer worked <a href=\"https://coritel.es\" target=\"_blank\">@ Coritel</a> over J2EE for a client of financial sector (ISBAN)"
   - image: "/img/career/uma.png"
     date: "Sept 2007 - June 2011"
-    description: "IT Technical Engineer <a href=\"http://www.uma.es\" target=\"_blank\">@ UMA</a>"
+    description: "IT Technical Engineer <br/><a href=\"http://www.uma.es\" target=\"_blank\">@ UMA</a>"
 
 # First image of the Career timeline
 timeline-img: "/img/career/default.png"
