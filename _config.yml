@@ -91,9 +91,12 @@ disqus-shortname: "chuguet"
 ###############
 
 events:
+  - image: "/img/career/denizen.png"
+    date: "May 2018 - Currently"
+    description: "Software IT Architect worked <a href=\"https://www.denizen.io\" target=\"_blank\">@Denizen</a> at Denizen Financial"
   - image: "/img/career/bbva.png"
     date: "Aug 2016 - Currently"
-    description: "IT Engineer worked <a href=\"http://www.bbva.es\" target=\"_blank\">@BBVA</a> at BBVA"
+    description: "Senior IT Engineer worked <a href=\"https://www.bbva.es\" target=\"_blank\">@BBVA</a> at BBVA"
   - image: "/img/career/ing.png"
     date: "June 2014 - July 2016"
     description: "Analyst Programmer worked <a href=\"http://www.ingdirect.es\" target=\"_blank\">@ING Bank</a> at ING Direct"
