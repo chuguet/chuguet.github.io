@@ -91,11 +91,14 @@ disqus-shortname: "chuguet"
 ###############
 
 events:
+  - image: "/img/career/beonit.png"
+    date: "Feb 2020 - Currently"
+    description: "Chief Technology Officer (CTO) worked <a href=\"https://www.beonit.es\" target=\"_blank\">@beonit</a> at beonit"
   - image: "/img/career/denizen.png"
-    date: "May 2018 - Currently"
+    date: "May 2018 - Jan 2020"
     description: "EU Team Lead worked <a href=\"https://www.denizen.io\" target=\"_blank\">@Denizen</a> at Denizen Financial"
   - image: "/img/career/bbva.png"
-    date: "Aug 2016 - Currently"
+    date: "Aug 2016 - May 2018"
     description: "Senior IT Engineer worked <a href=\"https://www.bbva.es\" target=\"_blank\">@BBVA</a> at BBVA"
   - image: "/img/career/ing.png"
     date: "June 2014 - July 2016"
