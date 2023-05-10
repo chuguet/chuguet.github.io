@@ -3,7 +3,7 @@
 
 url: "https://chuguet.github.io"
 baseurl: ""
-google-tracking-id: "UA-79651282-1"
+#google-tracking-id: "UA-79651282-1"
 force-https: True
 
 syntax-highlight: True
